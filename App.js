@@ -1,3 +1,6 @@
+/*
+Author: Jieun Jeon.
+*/
 import React from "react";
 import {
   StyleSheet,
