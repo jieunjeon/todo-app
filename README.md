@@ -1,4 +1,6 @@
 # todo-app
 todo app (with React Native)
 
-![screen1](https://i.ibb.co/ygBKN7G/screen1.png) ![screen2](https://i.ibb.co/R6VRsgr/screen2.png) ![screen3](https://i.ibb.co/WgHfFMc/screen3.png)
+<a href="https://ibb.co/KVzB5SR"><img src="https://i.ibb.co/ygBKN7G/screen1.png" alt="screen1" border="0"></a>
+<a href="https://ibb.co/n15xYwd"><img src="https://i.ibb.co/R6VRsgr/screen2.png" alt="screen2" border="0"></a>
+<a href="https://ibb.co/3BTcWj0"><img src="https://i.ibb.co/WgHfFMc/screen3.png" alt="screen3" border="0"></a>
